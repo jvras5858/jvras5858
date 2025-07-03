@@ -4,15 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=0078C8&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+Jonathas+Vinicius%3B;Sou+estudante+de+Computação+no+CIN-UFPE%3B;Seja+bem-vindo+ao+meu+mundo+tech!+💻🚀"></a>
 </p>
 
-### Sou Desenvolvedor de Software, moro em 🇧🇷 e sou Estagiário de inovação na [Viitra](https://viitra.com/).
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-<a href="https://github.com/jvras5858">
-  <img src="https://github.com/jvras5858/jvras5858/blob/main/github-metrics.svg"/>
-</a>
-</p>
   
 <p align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvras5858&theme=radical" />
