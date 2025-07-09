@@ -1,13 +1,17 @@
 <p align="center">
 <img src="https://viitra.com/wp-content/uploads/2024/11/Vitra-logo.svg" alt="!animation" width="300" height="100">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=0078C8&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+Jonathas+Vinicius%3B;Sou+DesenvolvedorBack-End+na+Viitra inovações%3B;Seja+bem-vindo(a)+ao+meu+Perfil!+💻🚀"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=0078C8&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+Jonathas+Vinicius%3B;Sou+Desenvolvedor+Back-End+na+Viitra+Inovações%3B;Seja+bem-vindo(a)+ao+meu+Perfil!+💻🚀"></a>
 </p>
 
+### Sou Desenvolvedor de Software, moro em 🇧🇷 e sou Estagiário em Inovações e desenvolvimento de software na [Viitra](https://viitra.com/).
 
 ## 📊 Estatísticas do GitHub
 
-  
+<p align="center">
+  <img height="250px" src="https://raw.githubusercontent.com/jvras5858/jvras5858/main/github-metrics.svg"/>
+</p>
+
 <p align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvras5858&theme=radical" />
 </p>  
