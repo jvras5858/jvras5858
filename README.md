@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://viitra.com/wp-content/uploads/2024/11/Vitra-logo.svg" alt="!animation" width="300" height="100">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=0078C8&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+Jonathas+Vinicius%3B;Sou+estudante+de+Computação+no+CIN-UFPE%3B;Seja+bem-vindo+ao+meu+mundo+tech!+💻🚀"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=0078C8&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+Jonathas+Vinicius%3B;Sou+DesenvolvedorBack-End+na+Viitra inovações%3B;Seja+bem-vindo(a)+ao+meu+Perfil!+💻🚀"></a>
 </p>
 
 
